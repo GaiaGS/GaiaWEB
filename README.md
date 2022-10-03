@@ -2,7 +2,7 @@
 
 # Welcome to GaiaWEB
 
-Hello and welcome to **GaiaWEB's** GitHub page!
+Hello and welcome to **GaiaWEB**'s GitHub page! **GaiaWEB** - the official website of the **Gaia** project.
 
 # Support the project
 
